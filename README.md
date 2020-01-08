@@ -1,28 +1,25 @@
-# Template Repository for Unity3D version 2019.1.14f1
+# WebGl Leonhard Schnaitl
 
 ### Project description: 
-Introduction/Project summary 
+WebGL Test
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10 64 bit, Unity 2019.1.14f1, Visual Studio Community 2019 16.4.2, WebGl
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, 960x600px
 
-### Visuals: 
-Screenshots (concept and experience), Video
+### Visuals:  
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+### Necessary setup/execution steps:  
 
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+### Third party material:  
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Leonhard Schnaitl
