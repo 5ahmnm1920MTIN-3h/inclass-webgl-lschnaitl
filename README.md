@@ -1,5 +1,5 @@
 # WebGl Leonhard Schnaitl
-[**The Game**](docs/index.html)
+[**The Game**](https://5ahmnm1920mtin-3h.github.io/inclass-webgl-lschnaitl/)
 
 ### Project description: 
 WebGL Test
